@@ -1,7 +1,7 @@
 from aiogram.types import BotCommand
 from aiogram import Bot, Dispatcher
 from dotenv import load_dotenv
-from hendlers import router
+from handlers import router
 import asyncio
 import os
 
